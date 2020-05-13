@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+	font-family: 'Baloo 2', cursive;
+	font-size: 20px;
+	line-height: 30px;	
+}
+
+header{
+	background-color: yellow;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1,h2 {
+	font-family: 'Baloo 2', cursive;
+	font-size: 50px;
+}
+
+header h1{
+	color:blue ;
+
+}
+
+header img{
+	border-radius: 170px;
+    width: 300px;
+    border: 10px solid #35E017;
+}
+
+main{
+	max-width: 100%;
+	margin: 0 auto;
+	padding: 20px ;
+
+
+
+}
+
+
+main h2{
+	text-align: center;
+}
+
+main img{
+	max-width: 100%; 
+} 
+
+h2{
+	font-size: 30px;
+	color: #35e017;
+	margin: 40px 0 10px;
+
+}
+
+a{
+	color: #35e017 ;
+}
+a:hover{
+	color: white;
+	background-color :green;
+}
+
+footer{
+	background-color: yellow;
+	text-align: center;
+	color: blue;
+	padding: 50px;
+}
+footer a{
+
+	color: green;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: blue;
+}
+
+p.caption {
+	color: #999999;
+	font-style: italic;
+	margin-top: 0px;
+}
+
+
